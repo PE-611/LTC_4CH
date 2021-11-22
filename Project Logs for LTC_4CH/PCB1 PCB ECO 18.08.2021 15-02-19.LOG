@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetR4_1_2 Pin=VT1_1-2
+Removed Pin From Net: NetName=VCC Pin=VT1_1-3
+Removed Pin From Net: NetName=NetR4_2_2 Pin=VT1_2-2
+Removed Pin From Net: NetName=VCC Pin=VT1_2-3
+Removed Pin From Net: NetName=NetR4_3_2 Pin=VT1_3-2
+Removed Pin From Net: NetName=VCC Pin=VT1_3-3
+Removed Pin From Net: NetName=NetR4_4_2 Pin=VT1_4-2
+Removed Pin From Net: NetName=VCC Pin=VT1_4-3
+Added Pin To Net: NetName=VCC Pin=VT1_1-2
+Added Pin To Net: NetName=NetR4_1_2 Pin=VT1_1-3
+Added Pin To Net: NetName=VCC Pin=VT1_2-2
+Added Pin To Net: NetName=NetR4_2_2 Pin=VT1_2-3
+Added Pin To Net: NetName=VCC Pin=VT1_3-2
+Added Pin To Net: NetName=NetR4_3_2 Pin=VT1_3-3
+Added Pin To Net: NetName=VCC Pin=VT1_4-2
+Added Pin To Net: NetName=NetR4_4_2 Pin=VT1_4-3
+Added Member To Class: ClassName=1 Member=Component C?_1 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=1 Member=Component C?_1 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=2 Member=Component C?_2 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=2 Member=Component C?_2 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=3 Member=Component C?_3 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=3 Member=Component C?_3 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=4 Member=Component C?_4 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Member To Class: ClassName=4 Member=Component C?_4 (C?) Ceramic capacitor, 2.2?F, X7R, ±10%, 16V, 1206, -55...+125°C
+Added Room: Name=Sheet2
